@@ -1,12 +1,11 @@
 # Ignore Python cache and compiled files
-.env
 __pycache__/
 *.pyc
 
-
-# Ignore environment and database files
+# Ignore environment files
 .env
+
+# Ignore database files
 *.db
 *.db-shm
 *.db-wal
-".env" 
